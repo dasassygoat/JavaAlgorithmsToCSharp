@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace JavaAlgorithmsToCSharp
+namespace Week1
 {
-    class QuickFindUF
+    public class QuickFindUF
     {
         private int[] ids;
 

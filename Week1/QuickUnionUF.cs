@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JavaAlgorithmsToCSharp
+namespace Week1
 {
     public class QuickUnionUF
     {
